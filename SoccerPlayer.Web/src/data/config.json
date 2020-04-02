@@ -1,0 +1,20 @@
+{
+  "user": {
+    "name": "Your Name",
+    "leg": "leg",
+    "position": "Position on pitch"
+  },
+  "youtubeLink": [{
+      "link": "https://www.youtube.com/embed/"
+    },
+    {
+      "link": "https://www.youtube.com/embed/"
+    },
+    {
+      "link": "https://www.youtube.com/embed/"
+    },
+    {
+      "link": "https://www.youtube.com/embed/"
+    }
+  ]
+}
