@@ -131,7 +131,7 @@ URL_SEND_EMAIL = "http://localhost:5000/EmailApi/SendEmailAsync"
 ```
 
 Live Demo
-[Demo](www.bartlomiejbedkowski.pl)
+[Demo](http://www.bartlomiejbedkowski.pl)
 
 ## Deployment
 
