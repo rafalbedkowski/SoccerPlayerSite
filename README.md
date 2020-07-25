@@ -181,4 +181,4 @@ open Site on http://localhost:8000
 
 ## Authors
 
-- **Rafał Będkowski** - [Morezo.pl](https://github.com/rafalbedkowski)
+- **Rafał Będkowski** - [Morezo.pl](http://morezo.pl)
